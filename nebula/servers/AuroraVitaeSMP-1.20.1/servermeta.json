@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///A:/AuroraLauncher/nebulaworkspace/schemas/ServerMetaSchema.schema.json",
+  "$schema": "https://aurora-vitae-autoupdater.netlify.app/nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "AuroraVitaeSMP (Minecraft 1.20.1)",
