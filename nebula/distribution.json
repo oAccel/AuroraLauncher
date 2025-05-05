@@ -579,7 +579,7 @@
           "artifact": {
             "size": 865894,
             "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/aurora_vitae-1.0.3-forge-1.20.1.jar",
-            "MD5": "fbb4ea33a2aaa3db538f8e3a8c997ba7"
+            "MD5": "edbe37b63714ef9c1f83b4bb4d53ea75"
           }
         },
         {
@@ -2313,6 +2313,16 @@
           }
         },
         {
+          "id": "me.flashyreese.mods.sodiumextra:embeddium_extra:0.5.4.4+mc1.20.1-build.131@jar",
+          "name": "Embeddium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 568608,
+            "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+            "MD5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
+          }
+        },
+        {
           "id": "com.blamejared:searchables:1.0.3@jar",
           "name": "Searchables",
           "type": "ForgeMod",
@@ -2702,7 +2712,6 @@
             "MD5": "fe8d205c98cb02840d46646fb7cf5ab8"
           }
         },
-       
         {
           "id": "com.yungnickyoung.minecraft:betteroceanmonuments:1.20-Forge-3.0.4@jar",
           "name": "YUNG's Better Ocean Monuments",
@@ -2713,7 +2722,6 @@
             "MD5": "467336218d681221ef8d875b226eb1bc"
           }
         },
-      
         {
           "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.20-Forge-3.0.3@jar",
           "name": "YUNG's Better Witch Huts",
