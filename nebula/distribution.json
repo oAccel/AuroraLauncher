@@ -2733,16 +2733,6 @@
             "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Zeta-1.0-30.jar",
             "MD5": "9fa915bd7e2c64217223b6a98ab5dc47"
           }
-        },
-        {
-          "id": "com.medievalmusic:medievalmusic:1.20.1-2.1@jar",
-          "name": "Medievalmusic mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 304414053,
-            "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/zmedievalmusic-1.20.1-2.1.jar",
-            "MD5": "a2801ddb3bb4d4c6e201e88c9ef8082f"
-          }
         }
       ]
     }
