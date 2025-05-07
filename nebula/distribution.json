@@ -577,9 +577,9 @@
           "name": "Aurora_vitae",
           "type": "ForgeMod",
           "artifact": {
-            "size": 865894,
+            "size": 864689,
             "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/aurora_vitae-1.0.5-forge-1.20.1.jar",
-            "MD5": "edbe37b63714ef9c1f83b4bb4d53ea75"
+            "MD5": "66fab5e5ebd589ff16b635a522ad3b21"
           }
         },
         {
