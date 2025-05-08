@@ -1,7 +1,77 @@
-npm i
+// comandos para usar no jar dos mods adicionados
 
-troque os mods
+PRIMEIRO COPIA TODOS OS MODS NOVOS QUE VAI ADICIONAR PRA ALGUMA PASTA SEPARADA E TROCA O ".jar" por ".zip"
+O CODIGO DEVE SER USADO NO ARQUIVO "distribution.json"
 
-npm start -- generate distro
+Promt de Comando (admin) :
+    "MD5"
+       1 . certutil -hashfile A:\AuroraLauncher\clonee\AuroraLauncher\nebula\servers\AuroraVitaeSMP-1.20.1\forgemods\required\aurora_vitae-1.0.5-forge-1.20.1.jar MD5
+    codigo de exemplo para usar 66fab5e5ebd589ff16b635a522ad3b21
 
-muda o distro no GitHub
+    "size"
+       1. Vá no arquivo jar *no mod*, botão direito e vá em "Propriedades" e busque por Tamanho (não tamanho em disco), queremo a taxa em bytes.
+    exemplo : 29553 bytes (retire o ponto).
+
+    "name"
+       1. Abra o zip do mod, vá em META-INF e abra algo chamado "mods.toml" e pegue na linha **displayName=** o id do mod
+    exemplo : displayName="AI-Improvements" (exemplo q peguei do AI improv).
+
+    "url"
+       Use na linha sempre : "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/**nome do arquivo do mod**",
+        (precisa da virgula no final da linha)
+
+    "type" NÃO MEXE
+
+    "id"
+       Abra o zip do mod, vá em META-INF e abra algo chamado "modId=" e pegue na linha **displayName=** o id do mod
+    exemplo : modId="abyssal_decor".
+
+
+//          EXEMPLO
+
+        {
+          "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.20-Forge-3.0.3@jar",
+          "name": "YUNG's Better Witch Huts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 179190,
+            "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+            "MD5": "cb6d73e271fdfb2e8698b7c6bd9df0d9"
+          }
+        },
+        {
+          "id": "********",
+          "name": "**** * *** *",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": *******,
+            "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/****************.jar",
+            "MD5": "********"
+          }
+        },
+
+
+
+// Template
+
+
+
+
+        {
+          "id": "*****",
+          "name": "****",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": ****,
+            "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/****",
+            "MD5": "*"
+          }
+        },
+
+
+// 1. comece a digitar o codigo novo sempre depois do ultimo mod e apertando espaço após a ultima linha " }, "
+// 2. caso não tenha virgula no ultimo codigo vá até o segundo sinal de chave abaixo da linha escrita MD5 e coloque uma virgula depois do sinal de chave
+// 3. se fizer o passo dois ao faze-lo siga pro passo 1
+// 4. Depois de colocar todos os codigos dos novos Mods pode adicionar os mods a pasta do github e commitar para os mods atualizarem automaticamente
+
+
