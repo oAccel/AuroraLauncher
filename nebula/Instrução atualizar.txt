@@ -3,10 +3,13 @@
 PRIMEIRO COPIA TODOS OS MODS NOVOS QUE VAI ADICIONAR PRA ALGUMA PASTA SEPARADA E TROCA O ".jar" por ".zip"
 O CODIGO DEVE SER USADO NO ARQUIVO "distribution.json"
 
-Promt de Comando (admin) :
     "MD5"
-       1 . certutil -hashfile A:\AuroraLauncher\clonee\AuroraLauncher\nebula\servers\AuroraVitaeSMP-1.20.1\forgemods\required\aurora_vitae-1.0.5-forge-1.20.1.jar MD5
-    codigo de exemplo para usar 66fab5e5ebd589ff16b635a522ad3b21
+       1 .Execute o Promt de Comando (como admin) e use : "certutil -hashfile "pasta até o mod\modfoda-forge-1.20.1.jar MD5"
+            Exemplo
+        certutil -hashfile A:\AuroraLauncher\clonee\AuroraLauncher\nebula\servers\AuroraVitaeSMP-1.20.1\forgemods\required\aurora_vitae-1.0.5-forge-1.20.1.jar MD5
+        66fab5e5ebd589ff16b635a522ad3b21
+
+        "66fab5e5ebd589ff16b635a522ad3b21" vai ser o codigo MD5
 
     "size"
        1. Vá no arquivo jar *no mod*, botão direito e vá em "Propriedades" e busque por Tamanho (não tamanho em disco), queremo a taxa em bytes.
