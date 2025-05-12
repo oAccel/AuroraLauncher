@@ -2793,16 +2793,6 @@
           }
         },
         {
-          "id": "plushie_buddies",
-          "name": "Plushie Buddies",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 444425,
-            "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/plushie_buddies-0.1.4-1.20.1.jar",
-            "MD5": "8ec29e2e392fd3813cd4c1d755668518d4e92d0c"
-          }
-        },
-        {
           "id": "vmod",
           "name": "Vanishmod",
           "type": "ForgeMod",
