@@ -2741,7 +2741,7 @@
             "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Zeta-1.0-30.jar",
             "MD5": "9fa915bd7e2c64217223b6a98ab5dc47"
           }
-        } },
+        },
         {
           "id": "ftbessentials",
           "name": "FTB Essentials",
@@ -2801,7 +2801,7 @@
             "url": "https://aurora-vitae-autoupdater.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Vanishmod-1.20.1-1.1.18.jar",
             "MD5": "4b1b4a359e739275024b56e138d4c9d9355fe63a"
           }
-        },
+        }
       ]
     }
   ]
