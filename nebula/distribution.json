@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7399,
             "MD5": "a839d5603a05491f84f6c36284ab0ea8",
-            "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
+            "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16612,
                 "MD5": "029daa8b97e10cedd4d6726a563379ab",
-                "url": "https://auroravitae.netlify.app/nebula/repo/versions/1.20.1-forge-47.4.0/1.20.1-forge-47.4.0.json"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/versions/1.20.1-forge-47.4.0/1.20.1-forge-47.4.0.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 118914,
                 "MD5": "bc798cdec9ec7eeb3354b550d5e67652",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16855,
                 "MD5": "10ca1edc0a62ea799c4327bfc44e5ad6",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4998,
                 "MD5": "cd3d6af64b394583aa83090915469f9e",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2776081,
                 "MD5": "f373b63ab9bfe53f7b35aaa425afa136",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4826828,
                 "MD5": "1940b09c4b066287963bde17aa375cec",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 31872,
                 "MD5": "5295505357ba9b98450c5e3121f82191",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 267079,
                 "MD5": "5b26aba9f44796d54094022c1e73a49e",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170517,
                 "MD5": "68747d96f635b0a0dc9e070d3596a562",
-                "url": "https://auroravitae.netlify.app/nebula/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
+                "url": "https://auroravitaesmp.com.br/nebula/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 59047,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/[1.20-1.20.1]%20Comics%20Bubbles%20Chat-1.3.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/[1.20-1.20.1]%20Comics%20Bubbles%20Chat-1.3.4.jar",
             "MD5": "240cd0f58980f2af4e1c2a794e8b537f"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7113143,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/abyssal_decor_1.20.1_0.1.8.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/abyssal_decor_1.20.1_0.1.8.jar",
             "MD5": "33fb572761a0238e4deecb96a27a02cc"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 208850,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
             "MD5": "508c73f2941ae3d48cbf197ba390ecdd"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29553,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
             "MD5": "9a6776ce2deab597d198e8755daa56ff"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 74871657,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/alexscaves-2.0.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/alexscaves-2.0.2.jar",
             "MD5": "6c8793ee5e1aa852fdb430a9cdaccdc5"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 55398,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/alexsdelight-1.5.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/alexsdelight-1.5.jar",
             "MD5": "b969e136e1f9a70c42dd102ed8359b40"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26350793,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
             "MD5": "504050d1f2e2c3019b6f53377ca354c6"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2425050,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.2.jar",
             "MD5": "4ea0e6533aedbeb5679fd46aa039cbda"
           }
         },
@@ -518,7 +518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 227511,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
             "MD5": "d4f8d1945416d5150cd67d27469b5ce9"
           }
         },
@@ -528,7 +528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           }
         },
@@ -538,7 +538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
             "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
         },
@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3565266,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-2.1.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-2.1.4.jar",
             "MD5": "3d720853815f7ed3c77e6bdab1e9e250"
           }
         },
@@ -558,7 +558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 850457,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
             "MD5": "85081468e7498005f5dfdab2ae520097"
           }
         },
@@ -568,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 91808,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
             "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
           }
         },
@@ -578,7 +578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 124436,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Atlas%20Lib-1.20.1-1.1.12.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Atlas%20Lib-1.20.1-1.1.12.jar",
             "MD5": "b63616d984991ee60d313938143eda3f"
           }
         },
@@ -588,7 +588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19471,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
             "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
           }
         },
@@ -598,7 +598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 865894,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/aurora_vitae-1.0.3-forge-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/aurora_vitae-1.0.3-forge-1.20.1.jar",
             "MD5": "edbe37b63714ef9c1f83b4bb4d53ea75"
           }
         },
@@ -608,7 +608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2119153,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Auroras-1.20.1-1.6.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Auroras-1.20.1-1.6.2.jar",
             "MD5": "7fff40d58f53aea9c9767ca8b0d0efd3"
           }
         },
@@ -618,7 +618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 27560,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/auudio_forge_1.0.3_MC_1.19.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/auudio_forge_1.0.3_MC_1.19.3.jar",
             "MD5": "33724200774e08146d7ceeb73c649871"
           }
         },
@@ -628,7 +628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10425,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/BadMobs-1.20.1-19.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/BadMobs-1.20.1-19.0.4.jar",
             "MD5": "c82edfea81516b7f8c9607ad5b2f75d6"
           }
         },
@@ -638,7 +638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 475315,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.27-all.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.27-all.jar",
             "MD5": "f602ed9d2c722942623165fec6eb538f"
           }
         },
@@ -648,7 +648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 55968,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/betterchunkloading-1.20.1-5.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/betterchunkloading-1.20.1-5.4.jar",
             "MD5": "0ec0d97c0f52b5b13762b293189487af"
           }
         },
@@ -658,7 +658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26540,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/BetterCompatibilityChecker-forge-4.0.8+mc1.20.1.jar",
             "MD5": "6cda211453a4423157b1a7927b050cff"
           }
         },
@@ -668,7 +668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 19917,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/betterfpsdist-1.20.1-6.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/betterfpsdist-1.20.1-6.0.jar",
             "MD5": "34280e25bfb67f8ce08157129c8cb09d"
           }
         },
@@ -678,7 +678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 35324,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/biomemusic-1.20.1-3.5.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/biomemusic-1.20.1-3.5.jar",
             "MD5": "9691af3d668facb52add2199bd2fb6db"
           }
         },
@@ -688,7 +688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21800460,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/BiomesOPlenty-1.20.1-18.0.0.592.jar",
             "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7"
           }
         },
@@ -698,7 +698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 96287,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/blahaj-forge-1.20.1-0.1.8.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/blahaj-forge-1.20.1-0.1.8.jar",
             "MD5": "28764d134017988734e99b36ebb80996"
           }
         },
@@ -708,7 +708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 389531,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/blockui-1.20.1-1.0.156-RELEASE.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/blockui-1.20.1-1.0.156-RELEASE.jar",
             "MD5": "79ba5ba6e97f105e59fb93bebc42154f"
           }
         },
@@ -718,7 +718,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1151213,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/blueprint-1.20.1-7.1.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/blueprint-1.20.1-7.1.3.jar",
             "MD5": "de8703f1bd1de5c64ebd411e37b19d47"
           }
         },
@@ -728,7 +728,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 343962,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.2.13.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.2.13.jar",
             "MD5": "46c8e7f9bcfa984bd576e448df2beb25"
           }
         },
@@ -738,7 +738,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11461409,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.6.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.6.3.jar",
             "MD5": "b02cb6b842bf7891aa9963e6460a4623"
           }
         },
@@ -748,7 +748,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12471821,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Botania-1.20.1-448-FORGE.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Botania-1.20.1-448-FORGE.jar",
             "MD5": "993f29f2034c122d78a4a97c654364e2"
           }
         },
@@ -758,7 +758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40125,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
             "MD5": "e37854c44b1849b753afc4a205f31b46"
           }
         },
@@ -768,7 +768,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 439457,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
             "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
           }
         },
@@ -778,7 +778,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2176120,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/celestisynth-1.20.1-1.3.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/celestisynth-1.20.1-1.3.1.jar",
             "MD5": "dba3f48580bc887a66b4313cf1646a02"
           }
         },
@@ -788,7 +788,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15060263,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
             "MD5": "c6c76e78805b357757bf47b04c7286e7"
           }
         },
@@ -798,7 +798,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2386114,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/chisel_chipped_integration-v1.1.5-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/chisel_chipped_integration-v1.1.5-1.20.1.jar",
             "MD5": "a1ef0c11a8da8e6f7745bb26113d5964"
           }
         },
@@ -808,7 +808,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 905793,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/chloride-FORGE-mc1.20.1-v1.6.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/chloride-FORGE-mc1.20.1-v1.6.0.jar",
             "MD5": "1b02bc35726ee295876f081cef8a4714"
           }
         },
@@ -818,7 +818,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11734,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/chunksending-1.20.1-2.8.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/chunksending-1.20.1-2.8.jar",
             "MD5": "550fcf675d0039e7da8336e001db3732"
           }
         },
@@ -828,7 +828,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 341451,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Chunky-1.3.146.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Chunky-1.3.146.jar",
             "MD5": "ed46120ac4f30ec8e03f6416e295577c"
           }
         },
@@ -838,7 +838,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3173637,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/citadel-2.6.1-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/citadel-2.6.1-1.20.1.jar",
             "MD5": "d7c8be4b34cfd4db20ad1747b122d07c"
           }
         },
@@ -848,7 +848,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
           }
         },
@@ -858,7 +858,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20299,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
             "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
           }
         },
@@ -868,7 +868,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6002846,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cluttered-2.1-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cluttered-2.1-1.20.1.jar",
             "MD5": "359422bfdb492eada7067f41db746cff"
           }
         },
@@ -878,7 +878,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 138723,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CMDCam_FORGE_v2.2.0_mc1.20.1.jar",
             "MD5": "9888e81b3be43fd6cc7d6d2509552382"
           }
         },
@@ -888,7 +888,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1472390,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CodeChickenLib-1.20.1-4.4.0.516-universal.jar",
             "MD5": "5c2f4b34587c6596d1d50e5bf76ee448"
           }
         },
@@ -898,7 +898,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1509649,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cofh_core-1.20.1-11.0.2.56.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cofh_core-1.20.1-11.0.2.56.jar",
             "MD5": "8d5ecdae594951c49899b6bf38b41b7d"
           }
         },
@@ -908,7 +908,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 657310,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/collective-1.20.1-8.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/collective-1.20.1-8.3.jar",
             "MD5": "5b0b99ac79f68438ee0133ff6dfd53c5"
           }
         },
@@ -918,7 +918,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 122868,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/colorfulhearts-forge-1.20.1-4.3.16.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/colorfulhearts-forge-1.20.1-4.3.16.jar",
             "MD5": "9e9be8a8c82350e43dfdd5d76101be50"
           }
         },
@@ -928,7 +928,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 418929,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/configured-forge-1.20.1-2.2.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/configured-forge-1.20.1-2.2.3.jar",
             "MD5": "9380dc31c599c523a5682a4025fceb92"
           }
         },
@@ -938,7 +938,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 42866,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ConfiguredDefaults-v8.0.4-1.20.1-Forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ConfiguredDefaults-v8.0.4-1.20.1-Forge.jar",
             "MD5": "344e3a4599ad289fb1d0554f963f3031"
           }
         },
@@ -948,7 +948,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 871676,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/connectedglass-1.1.13-forge-mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/connectedglass-1.1.13-forge-mc1.20.1.jar",
             "MD5": "13b280c06f47dddb474bbc1b398d6d3b"
           }
         },
@@ -958,7 +958,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 112550,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/connectivity-1.20.1-7.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/connectivity-1.20.1-7.1.jar",
             "MD5": "a4e4e9823e1df967bee1d62e6a505e8f"
           }
         },
@@ -968,7 +968,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 210312,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/constructionwand-1.20.1-2.11.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/constructionwand-1.20.1-2.11.jar",
             "MD5": "e17b0f6b4fa378d6750a9030a5aca9e0"
           }
         },
@@ -978,7 +978,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 115280,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
             "MD5": "952274bc9994bba9733e8747558f73fa"
           }
         },
@@ -988,7 +988,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 360624,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Corgilib-Forge-1.20.1-4.0.3.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Corgilib-Forge-1.20.1-4.0.3.3.jar",
             "MD5": "1563b7e0927373d3a512ab398438e362"
           }
         },
@@ -998,7 +998,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 244994,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.20.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.20.jar",
             "MD5": "143d3e76139de3b9186849f494a41af6"
           }
         },
@@ -1008,7 +1008,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9117,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/corpsecurioscompat-1.18.x-1.20.x-Forge-2.2.2.jar",
             "MD5": "82d54c35a60a963f292dc3f3fd3b3af2"
           }
         },
@@ -1018,7 +1018,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 88752,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
             "MD5": "2454075e9a25cbadc0fce66502e3261d"
           }
         },
@@ -1028,7 +1028,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3625445,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cozy_home-3.0.4-forge-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cozy_home-3.0.4-forge-1.20.1.jar",
             "MD5": "72c61019ef4c06b898871397cc057936"
           }
         },
@@ -1038,7 +1038,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 712374,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cozy-1.1.1-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cozy-1.1.1-forge.jar",
             "MD5": "47d6b90b4282a2c2833a2dc19d2d2a58"
           }
         },
@@ -1048,7 +1048,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29437,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cpm-svc-compat-1.2.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cpm-svc-compat-1.2.1.jar",
             "MD5": "6bf765b90776ee61908b116416b6d902"
           }
         },
@@ -1058,7 +1058,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2050483,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CraftPresence-2.5.5+1.20.1-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CraftPresence-2.5.5+1.20.1-forge.jar",
             "MD5": "f27f3a73b06aeb6148b68f4688e4f5a3"
           }
         },
@@ -1068,7 +1068,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6275512,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/create_connected-1.0.1-mc1.20.1-all.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/create_connected-1.0.1-mc1.20.1-all.jar",
             "MD5": "24b7fb73931f875a533035ef5bcaa9c6"
           }
         },
@@ -1078,7 +1078,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 18463134,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/create-1.20.1-6.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/create-1.20.1-6.0.4.jar",
             "MD5": "9d274d57a664ae35e6efbef8595bcc29"
           }
         },
@@ -1088,7 +1088,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2123089,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/create-confectionery1.20.1_v1.1.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/create-confectionery1.20.1_v1.1.0.jar",
             "MD5": "12760e582e8e0bd77e1b3a9421bb7e01"
           }
         },
@@ -1098,7 +1098,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3509013,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/createdeco-2.0.3-1.20.1-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/createdeco-2.0.3-1.20.1-forge.jar",
             "MD5": "3e0976b862fd087493c7356f623f5cd7"
           }
         },
@@ -1108,7 +1108,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 358402,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/createutilities-0.3.1+1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/createutilities-0.3.1+1.20.1.jar",
             "MD5": "82eb21562c6f1ecd02c0694e307f4c7c"
           }
         },
@@ -1118,7 +1118,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1158417,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
             "MD5": "7aabe100af362d0df92d8ea1dbc2667b"
           }
         },
@@ -1128,7 +1128,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1456860,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/creeperoverhaul-3.0.2-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/creeperoverhaul-3.0.2-forge.jar",
             "MD5": "a8fb93fffba5a25b8444f4a2d5da2601"
           }
         },
@@ -1138,7 +1138,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1314349,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/crittersandcompanions-forge-2.2.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/crittersandcompanions-forge-2.2.2.jar",
             "MD5": "cf742406aa026278017709ec941cc093"
           }
         },
@@ -1148,7 +1148,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2099945,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
             "MD5": "c7c4e6f0ff51507ad64544991dfc7454"
           }
         },
@@ -1158,7 +1158,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 243895,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CTM-1.20.1-1.1.10.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CTM-1.20.1-1.1.10.jar",
             "MD5": "573b6524784b3c56bfb47d8552ce4835"
           }
         },
@@ -1168,7 +1168,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 260728,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/culturaldelights-0.16.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/culturaldelights-0.16.4.jar",
             "MD5": "16de4cc84ca56598e13c0b6b41beb923"
           }
         },
@@ -1178,7 +1178,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25983,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
             "MD5": "3620912474f47bf58d1fe5bfe133763a"
           }
         },
@@ -1188,7 +1188,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 398066,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           }
         },
@@ -1198,7 +1198,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10773118,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CustomNPCs-1.20.1-GBPort-Unofficial-20240824.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CustomNPCs-1.20.1-GBPort-Unofficial-20240824.jar",
             "MD5": "c8572b478b38bfa68eefc361cbc8e1c9"
           }
         },
@@ -1208,7 +1208,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2773985,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.21a.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.21a.jar",
             "MD5": "47c0824e327bff103a37b04898010c05"
           }
         },
@@ -1218,7 +1218,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 38704,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/DarkPaintings-Forge-1.20.1-17.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/DarkPaintings-Forge-1.20.1-17.0.4.jar",
             "MD5": "45c34efb8f76a024a800ba415cca0b10"
           }
         },
@@ -1228,7 +1228,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 109537,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Data_Anchor-forge-1.20.1-1.0.0.13.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Data_Anchor-forge-1.20.1-1.0.0.13.jar",
             "MD5": "ae70823d3cabb9698bd01c02df7febe4"
           }
         },
@@ -1238,7 +1238,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 573928,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/decorative_blocks-forge-1.20.1-4.1.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/decorative_blocks-forge-1.20.1-4.1.3.jar",
             "MD5": "3ccc7e414c9de806448d94eef399cfd7"
           }
         },
@@ -1248,7 +1248,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1099334,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/domum_ornamentum-1.20.1-1.0.186-RELEASE-universal.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/domum_ornamentum-1.20.1-1.0.186-RELEASE-universal.jar",
             "MD5": "0e7bf5e2a1b9b449885e8a2f40910789"
           }
         },
@@ -1258,7 +1258,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 360645,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/dummmmmmy-1.20-2.0.6.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/dummmmmmy-1.20-2.0.6.jar",
             "MD5": "02c7fa1fc6c7fa8dd720da88dcc6727e"
           }
         },
@@ -1268,7 +1268,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8762342,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/DungeonsArise-1.20.x-2.1.58-release.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/DungeonsArise-1.20.x-2.1.58-release.jar",
             "MD5": "6ac48d0cf2ce763824f96f6d26963219"
           }
         },
@@ -1278,7 +1278,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 374145,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/dynamic-fps-3.9.3+minecraft-1.20.0-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/dynamic-fps-3.9.3+minecraft-1.20.0-forge.jar",
             "MD5": "46d4403ec8ea7c5d08445cbfabbdbb86"
           }
         },
@@ -1288,7 +1288,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1610362,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.9.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/easy_npc-forge-1.20.1-5.9.0.jar",
             "MD5": "d1548323ff014a8bcdbf00ac846a430d"
           }
         },
@@ -1298,7 +1298,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40161,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/EasyPaxel1.20.1(Forge)vs1.0.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/EasyPaxel1.20.1(Forge)vs1.0.3.jar",
             "MD5": "ca5c9238fa84868c3d09b15312ddddb0"
           }
         },
@@ -1308,7 +1308,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 45585,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ebintegration-0.1.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ebintegration-0.1.1.jar",
             "MD5": "9612dbc6dc56cf4416ee80b2aabcdfc7"
           }
         },
@@ -1318,7 +1318,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1829363,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ecologics-forge-1.20.1-2.2.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ecologics-forge-1.20.1-2.2.0.jar",
             "MD5": "f68cce5bcbf61751e11bdf38c8366eec"
           }
         },
@@ -1328,7 +1328,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3821321,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/eidolon_repraised-1.20.1-0.3.8.15.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/eidolon_repraised-1.20.1-0.3.8.15.jar",
             "MD5": "b0791ffdb05bd8937c99835ddbf00160"
           }
         },
@@ -1338,7 +1338,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 188132,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/elevatorid-1.20.1-lex-1.9.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/elevatorid-1.20.1-lex-1.9.jar",
             "MD5": "35c05c6c14993fe3fb38917ce09f51b8"
           }
         },
@@ -1348,7 +1348,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -1358,7 +1358,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 295939,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
             "MD5": "0111b7bd56a5597536c46143910d1e48"
           }
         },
@@ -1368,7 +1368,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 680255,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
             "MD5": "636c62379cd7c5201a70fd457808e331"
           }
         },
@@ -1378,7 +1378,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69476,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
             "MD5": "445422556264d2129fde704f35d9680f"
           }
         },
@@ -1388,7 +1388,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 75290,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/entityculling-forge-1.7.4-mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/entityculling-forge-1.7.4-mc1.20.1.jar",
             "MD5": "a6bc8ba692b23fac2aa0e6d3afad47cf"
           }
         },
@@ -1398,7 +1398,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 756864,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
             "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd"
           }
         },
@@ -1408,7 +1408,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20397944,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/etheria-0.2.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/etheria-0.2.1.jar",
             "MD5": "2012c0ad3973e331b640c4bad5899c82"
           }
         },
@@ -1418,7 +1418,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2678731,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/everycomp-1.20-2.7.26.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/everycomp-1.20-2.7.26.jar",
             "MD5": "0a06ac662a51ae24046df78b4d711b8f"
           }
         },
@@ -1428,7 +1428,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 80765,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/expandability-9.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/expandability-9.0.4.jar",
             "MD5": "8090193f88097a1b4cb30386c29cae77"
           }
         },
@@ -1438,7 +1438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 821317,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fairylights-7.0.0-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fairylights-7.0.0-1.20.1.jar",
             "MD5": "007ccd44927fee58df78cdd8310330f4"
           }
         },
@@ -1448,7 +1448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 124212,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fallingleaves-1.20.1-2.1.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fallingleaves-1.20.1-2.1.2.jar",
             "MD5": "721d92a83d7518e8515dbd499eda03cd"
           }
         },
@@ -1458,7 +1458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3280422,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fancymenu_forge_3.5.0_MC_1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fancymenu_forge_3.5.0_MC_1.20.1.jar",
             "MD5": "4da459780fb51757bd0e467460c01e63"
           }
         },
@@ -1468,7 +1468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3202951,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fantasyfurniture-1.20.1-9.0.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fantasyfurniture-1.20.1-9.0.0.jar",
             "MD5": "0712007756c04d20100121c31510d346"
           }
         },
@@ -1478,7 +1478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2954263,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
             "MD5": "a91b9909757a8fa36303eef730033c7b"
           }
         },
@@ -1488,7 +1488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 440849,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/farsight-1.20.1-3.7.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/farsight-1.20.1-3.7.jar",
             "MD5": "4914b08ef1ce60daf701f84e1cb1834a"
           }
         },
@@ -1498,7 +1498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14472,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fastasyncworldsave-1.20.1-2.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fastasyncworldsave-1.20.1-2.4.jar",
             "MD5": "d39d41cd149accd04dcfd2efe2aa4e4f"
           }
         },
@@ -1508,7 +1508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6170,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FastFurnace-1.20.1-8.0.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FastFurnace-1.20.1-8.0.2.jar",
             "MD5": "48b8d2df29ea216a625928e29a6434da"
           }
         },
@@ -1518,7 +1518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9835,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FastLeafDecay-32.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FastLeafDecay-32.jar",
             "MD5": "20df3e3525622d6ea38a243be828ef38"
           }
         },
@@ -1528,7 +1528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 66989,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
             "MD5": "3266e638032dc9b957bf1e7372671c05"
           }
         },
@@ -1538,7 +1538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25305,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FastSuite-1.20.1-5.1.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FastSuite-1.20.1-5.1.0.jar",
             "MD5": "5308931eb0df44e4f39c06a7696f42ce"
           }
         },
@@ -1548,7 +1548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 28188,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FastWorkbench-1.20.1-8.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FastWorkbench-1.20.1-8.0.4.jar",
             "MD5": "2b55c4786cc726b0757689af28b97e7e"
           }
         },
@@ -1558,7 +1558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 508918,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/faunify-forge-1.20.1-1.1.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/faunify-forge-1.20.1-1.1.2.jar",
             "MD5": "039f3e0e3eb2391a82516eea0b78fffe"
           }
         },
@@ -1568,7 +1568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -1578,7 +1578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 292004,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/flib-1.20.1-0.0.15.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/flib-1.20.1-0.0.15.jar",
             "MD5": "8708c5086282cb21e104ec29aef4d8e4"
           }
         },
@@ -1588,7 +1588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 125347,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FpsReducer2-forge-1.20-2.5.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FpsReducer2-forge-1.20-2.5.jar",
             "MD5": "667e0ad36f07af69e285d47624b1d084"
           }
         },
@@ -1598,7 +1598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4248211,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FramedBlocks-9.4.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/FramedBlocks-9.4.1.jar",
             "MD5": "67fb94e1235f0f66f9ad9546c9e57815"
           }
         },
@@ -1608,7 +1608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 155952,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.2.jar",
             "MD5": "af57dc19d6a359ba3eb59494026bca8d"
           }
         },
@@ -1618,7 +1618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 791841,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ftb-library-forge-2001.2.9.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ftb-library-forge-2001.2.9.jar",
             "MD5": "cdf8b270d3ee2c403a26206b10e0a749"
           }
         },
@@ -1628,7 +1628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 540383,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
             "MD5": "c675f476a9d1f14047b4e1b4a9b36b40"
           }
         },
@@ -1638,7 +1638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 68468,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/GameStages-Forge-1.20.1-15.0.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/GameStages-Forge-1.20.1-15.0.2.jar",
             "MD5": "bddb7414b6e27fcb60e20f9eedea4333"
           }
         },
@@ -1648,7 +1648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1012500,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
             "MD5": "cd951c81b5551b8a3f215a825d2934fa"
           }
         },
@@ -1658,7 +1658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7997,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/gpumemleakfix-1.20.1-1.8.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/gpumemleakfix-1.20.1-1.8.jar",
             "MD5": "e5028e9da74761f26c00c546c8ebdc4d"
           }
         },
@@ -1668,7 +1668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7111059,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
             "MD5": "a5291f94fc830a80d2caf7d2ab7cd4fd"
           }
         },
@@ -1678,7 +1678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 256101,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/heartstone-1.20-1.3.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/heartstone-1.20-1.3.0.jar",
             "MD5": "382ca6da5fcd943a0553827dde988e6b"
           }
         },
@@ -1688,7 +1688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 312332,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/IAS-Forge-1.20.1-9.0.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/IAS-Forge-1.20.1-9.0.0.jar",
             "MD5": "d83b9e8b614e5d9204268c7eaf25231e"
           }
         },
@@ -1698,7 +1698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21854126,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/iceandfire-2.1.13-1.20.1-beta-5.jar",
             "MD5": "cadbfab46fa1b02f9a9b09fa5cf86803"
           }
         },
@@ -1708,7 +1708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 134551,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Iceberg-1.20.1-forge-1.1.25.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Iceberg-1.20.1-forge-1.1.25.jar",
             "MD5": "cda8af806d0de012f5c7012ea51c155f"
           }
         },
@@ -1718,7 +1718,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 428350,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
             "MD5": "c46791160a43bc35040f8f947e959024"
           }
         },
@@ -1728,7 +1728,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4260577,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/immersive_melodies-0.4.0+1.20.1-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/immersive_melodies-0.4.0+1.20.1-forge.jar",
             "MD5": "e132b4b66bb4f9835a2ebd9ceda59867"
           }
         },
@@ -1738,7 +1738,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8838769,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/irons_spellbooks-1.20.1-3.4.0.8.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/irons_spellbooks-1.20.1-3.4.0.8.jar",
             "MD5": "00c7e5852d7feaec899cb7bdbed6320a"
           }
         },
@@ -1748,7 +1748,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 550551,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.1.jar",
             "MD5": "e36b4d172480009220be7eae12490943"
           }
         },
@@ -1758,7 +1758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 191327,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/jamlib-forge-1.3.5+1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/jamlib-forge-1.3.5+1.20.1.jar",
             "MD5": "c9fd9b6fbf5b73a4dff52ccaceaf485e"
           }
         },
@@ -1768,7 +1768,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1379220,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
             "MD5": "245af433575aef3a47ae73492196018f"
           }
         },
@@ -1778,7 +1778,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160405,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "2181bd6b7161f06726560b9382235611"
           }
         },
@@ -1788,7 +1788,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 128225,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/just_blahaj-1.0.5.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/just_blahaj-1.0.5.jar",
             "MD5": "fe7e140a5d30a4646bae648e2fe8e7fa"
           }
         },
@@ -1798,7 +1798,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 24607,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/JustEnoughProfessions-forge-1.20.1-3.0.1.jar",
             "MD5": "1b5434032350a82a2be5da0b2fed7947"
           }
         },
@@ -1808,7 +1808,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 276231,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/JustEnoughResources-1.20.1-1.4.0.247.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/JustEnoughResources-1.20.1-1.4.0.247.jar",
             "MD5": "bd7166a2e9361ef5e8b616edfa2028f4"
           }
         },
@@ -1818,7 +1818,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 204574,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
             "MD5": "758fe904b5a22ce7b2df824c1a064858"
           }
         },
@@ -1828,7 +1828,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
@@ -1838,7 +1838,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1654660,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
             "MD5": "f4c6924bef764748d26ee51e4d4c0b00"
           }
         },
@@ -1848,7 +1848,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 72159722,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/L_Enders_Cataclysm%201.20.1-2.66.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/L_Enders_Cataclysm%201.20.1-2.66.jar",
             "MD5": "a174d0dc293767e5bd277ed48158bcb8"
           }
         },
@@ -1858,7 +1858,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 55258,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
             "MD5": "18c8e50bb98e24d86aa96a8b25dc6091"
           }
         },
@@ -1868,7 +1868,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1440591,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-API-forge-1.2.15-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-API-forge-1.2.15-forge.jar",
             "MD5": "82d392dd5ef6064d8988592a35b3b403"
           }
         },
@@ -1878,7 +1878,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1084974,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-bakery-forge-2.0.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-bakery-forge-2.0.3.jar",
             "MD5": "15eb37ec33a9f9dff00f5dc1003679ff"
           }
         },
@@ -1888,7 +1888,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7460121,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-beachparty-forge-2.0.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-beachparty-forge-2.0.1.jar",
             "MD5": "f7e335bc4892777bf594541fe5f7d81a"
           }
         },
@@ -1898,7 +1898,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1409972,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-brewery-forge-2.0.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-brewery-forge-2.0.3.jar",
             "MD5": "00d05e12929f3190d7f164023ff4833b"
           }
         },
@@ -1908,7 +1908,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2359843,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-candlelight-forge-2.0.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-candlelight-forge-2.0.2.jar",
             "MD5": "e84d46d1705e8b50e73318fa257b5860"
           }
         },
@@ -1918,7 +1918,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1838745,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-farm_and_charm-forge-1.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-farm_and_charm-forge-1.0.4.jar",
             "MD5": "7e908f0676ab6458061e963a1795c29d"
           }
         },
@@ -1928,7 +1928,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2676511,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-meadow-forge-1.3.25.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-meadow-forge-1.3.25.jar",
             "MD5": "3ea594fdc393d588a236d54e870b7789"
           }
         },
@@ -1938,7 +1938,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3174482,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.39.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.39.jar",
             "MD5": "271056de18c5f5efb5580075b4679341"
           }
         },
@@ -1948,7 +1948,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 190536,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
             "MD5": "68ba05aaf09f053934537af691e959df"
           }
         },
@@ -1958,7 +1958,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1253011,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/LibX-1.20.1-5.0.12.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/LibX-1.20.1-5.0.12.jar",
             "MD5": "2c7126e987fab7977637f59e1b473a93"
           }
         },
@@ -1968,7 +1968,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 162767,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lionfishapi-2.4-Fix.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lionfishapi-2.4-Fix.jar",
             "MD5": "81efd7c198c3c7036c77c79cae764ed4"
           }
         },
@@ -1978,7 +1978,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 670934,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lodestone-1.20.1-1.6.4.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lodestone-1.20.1-1.6.4.1.jar",
             "MD5": "2816fa972ca3a21e6e38783f979955be"
           }
         },
@@ -1988,7 +1988,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5942,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lootintegrations_yungs-1.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lootintegrations_yungs-1.3.jar",
             "MD5": "2a87ae40813ed4cc98e20a2278610c91"
           }
         },
@@ -1998,7 +1998,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26325,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lootintegrations-1.20.1-4.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lootintegrations-1.20.1-4.3.jar",
             "MD5": "62888b065bcdad473eec8e6ef611db05"
           }
         },
@@ -2008,7 +2008,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 458532,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.91.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.91.jar",
             "MD5": "512ee49d21782875b33513fb074eb098"
           }
         },
@@ -2018,7 +2018,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1398478,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/LuckPerms-Forge-5.4.102.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/LuckPerms-Forge-5.4.102.jar",
             "MD5": "1f1d23fbf1b5ab2a1b28054a278cfa19"
           }
         },
@@ -2028,7 +2028,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26324441,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/malum-1.20.1-1.6.6.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/malum-1.20.1-1.6.6.jar",
             "MD5": "303f4e2e636e56c146713df503a29472"
           }
         },
@@ -2038,7 +2038,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37178,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
             "MD5": "6b528d368f7fcbf737df28f2457cdec6"
           }
         },
@@ -2048,7 +2048,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 824640,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/modernfix-forge-5.21.0+mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/modernfix-forge-5.21.0+mc1.20.1.jar",
             "MD5": "3231eb6ba18ea27d8dd3a66fc4fc952e"
           }
         },
@@ -2058,7 +2058,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1252228,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/moonlight-1.20-2.13.82-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/moonlight-1.20-2.13.82-forge.jar",
             "MD5": "d2fb903091892e08cf6cdc115624744c"
           }
         },
@@ -2068,7 +2068,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 233335,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/morevillagers-forge-1.20.1-5.0.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/morevillagers-forge-1.20.1-5.0.0.jar",
             "MD5": "092d4871b6ec7ab1570bd69c6e8d0d43"
           }
         },
@@ -2078,7 +2078,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 76237,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
             "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
           }
         },
@@ -2088,7 +2088,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3482,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/MyServerIsCompatible-1.20-1.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/MyServerIsCompatible-1.20-1.0.jar",
             "MD5": "61d6f7c70030cbdacbbb0053cf120b79"
           }
         },
@@ -2098,7 +2098,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3793857,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/naturalist-5.0pre2+forge-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/naturalist-5.0pre2+forge-1.20.1.jar",
             "MD5": "213db37a474642aaa1693bbfb5c574e8"
           }
         },
@@ -2108,7 +2108,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 215119,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/NaturesCompass-1.20.1-1.11.2-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/NaturesCompass-1.20.1-1.11.2-forge.jar",
             "MD5": "7c05072645b1aae529b1e38c74b87c4c"
           }
         },
@@ -2118,7 +2118,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 418925,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/NekosEnchantedBooks-1.19.3-2.0.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/NekosEnchantedBooks-1.19.3-2.0.3.jar",
             "MD5": "70cba5301e69c6d1b7bc4b7a4191a4cf"
           }
         },
@@ -2128,7 +2128,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 377881,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/nightlights-1.20.1-1.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/nightlights-1.20.1-1.1.jar",
             "MD5": "ef8bd4be30a00b9b9c6a9280886d5938"
           }
         },
@@ -2138,7 +2138,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 272740,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
             "MD5": "3153d1e860c6fefe6dac26efdb5c40c6"
           }
         },
@@ -2148,7 +2148,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 90353,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/oceansdelight-1.0.2-1.20.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/oceansdelight-1.0.2-1.20.jar",
             "MD5": "eaa8c0ba3771042829fd5396ad8b5e06"
           }
         },
@@ -2158,7 +2158,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 424035,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
             "MD5": "6b2fd012966b13a96ce4f68ae42eab8c"
           }
         },
@@ -2168,7 +2168,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
@@ -2178,7 +2178,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 34400785,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar",
             "MD5": "8908481b9191862c92bfd1b86eede459"
           }
         },
@@ -2188,7 +2188,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 125395,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.8.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.8.jar",
             "MD5": "69672c7efc3a2c0647369d136428dd89"
           }
         },
@@ -2198,7 +2198,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 589055,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Paraglider-forge-20.1.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Paraglider-forge-20.1.3.jar",
             "MD5": "35eba1f897eb09eaff91579d65696565"
           }
         },
@@ -2208,7 +2208,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 642711,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
             "MD5": "d5154cacf6859582eebd853bd59f5537"
           }
         },
@@ -2218,7 +2218,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 671605,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
             "MD5": "95bdd5558d34044f54aab0ce292e679b"
           }
         },
@@ -2228,7 +2228,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 321702,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/personality-1.20.1-4.1.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/personality-1.20.1-4.1.0.jar",
             "MD5": "d6da1e6704953df5f4c2a01506af442e"
           }
         },
@@ -2238,7 +2238,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 282474,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
             "MD5": "13133ab9989e8474931cd7a86bd19cc5"
           }
         },
@@ -2248,7 +2248,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 403689,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Platform-forge-1.20.1-1.2.7.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Platform-forge-1.20.1-1.2.7.1.jar",
             "MD5": "20c6c2118628dcfe62d262340f2f9dfb"
           }
         },
@@ -2258,7 +2258,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 181437,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
           }
         },
@@ -2268,7 +2268,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5298162,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
             "MD5": "e07fc42680a0163c99c21cfa9afb9816"
           }
         },
@@ -2278,7 +2278,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 299601,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/polymorph-forge-0.49.10+1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/polymorph-forge-0.49.10+1.20.1.jar",
             "MD5": "8e93675b33a89243d27f272f84e88338"
           }
         },
@@ -2288,7 +2288,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 52205,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Prism-1.20.1-forge-1.0.5.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Prism-1.20.1-forge-1.0.5.jar",
             "MD5": "de0e319e29e813f407314b33739f7eb8"
           }
         },
@@ -2298,7 +2298,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 652022,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/realmrpg_skeletons-1.1.0-forge-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/realmrpg_skeletons-1.1.0-forge-1.20.1.jar",
             "MD5": "39a9a0fbe5cba2765f46090dc0c245b8"
           }
         },
@@ -2308,7 +2308,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 197497,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rechiseled_chipped-1.2.1-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rechiseled_chipped-1.2.1-1.20.1.jar",
             "MD5": "8ae1a8c49a537ac72ec58fc7759d5578"
           }
         },
@@ -2318,7 +2318,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3600460,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rechiseled-1.1.6-forge-mc1.20.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rechiseled-1.1.6-forge-mc1.20.jar",
             "MD5": "bf5a3b3264d2eb5e12ac6d9b0fcc1f90"
           }
         },
@@ -2328,7 +2328,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 50739,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/recipeessentials-1.20.1-4.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/recipeessentials-1.20.1-4.0.jar",
             "MD5": "570607c1e36e86f2180fdfb960b50dff"
           }
         },
@@ -2338,7 +2338,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3216552,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/redeco-1.14.1-forge-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/redeco-1.14.1-forge-1.20.1.jar",
             "MD5": "262810452b5592c9c16454060446685c"
           }
         },
@@ -2348,7 +2348,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11195,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/redimstages-1.0.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/redimstages-1.0.0.jar",
             "MD5": "862eeaafd843041f0b3a728beae0af9a"
           }
         },
@@ -2358,7 +2358,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 136923,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/resourcefulconfig-forge-1.20.1-2.1.3.jar",
             "MD5": "947463b04c043937cd24506842f737a3"
           }
         },
@@ -2368,7 +2368,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 432753,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
             "MD5": "a040c6cc86f653fddf280ff3af9068f0"
           }
         },
@@ -2378,7 +2378,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1798244,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
             "MD5": "59387620b0ef6becbff02c7c1636ad3e"
           }
         },
@@ -2388,7 +2388,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2218573,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Ribbits-1.20.1-Forge-3.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Ribbits-1.20.1-Forge-3.0.4.jar",
             "MD5": "a43ce8463310788ec0535c98f255a958"
           }
         },
@@ -2398,7 +2398,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 288142,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rightclickharvest-forge-4.5.3+1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rightclickharvest-forge-4.5.3+1.20.1.jar",
             "MD5": "2531423ad9a4511da59035912dd73963"
           }
         },
@@ -2408,7 +2408,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2595007,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rottencreatures-forge-1.20.1-1.1.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rottencreatures-forge-1.20.1-1.1.0.jar",
             "MD5": "b93a055c1819d1c24cf3bf4d4ca490e3"
           }
         },
@@ -2418,7 +2418,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 568608,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
             "MD5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
           }
         },
@@ -2428,7 +2428,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 270676,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Scribble-1.5.1+mc1.20.1-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Scribble-1.5.1+mc1.20.1-forge.jar",
             "MD5": "05e53557a6e995f25fbdd5bf814b6044"
           }
         },
@@ -2438,7 +2438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 77732,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
             "MD5": "9f5418e9c08c18a375ef42fada4bcef2"
           }
         },
@@ -2448,7 +2448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1413531,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/simplehats-forge-1.20.1-0.3.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/simplehats-forge-1.20.1-0.3.2.jar",
             "MD5": "5617686a811a3c1f6523166b7af7f0a8"
           }
         },
@@ -2458,7 +2458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1570304,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/simplymore-forge-1.1.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/simplymore-forge-1.1.3.jar",
             "MD5": "5454cc2fd91d38c402835eb09a0dbca3"
           }
         },
@@ -2468,7 +2468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15202091,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/simplyswords-forge-1.56.0-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/simplyswords-forge-1.56.0-1.20.1.jar",
             "MD5": "da155dc9ccd825f2a824532488675d85"
           }
         },
@@ -2478,7 +2478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1816687,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/smallships-forge-1.20.1-2.0.0-b1.4.jar",
             "MD5": "c52bf453f18b87f43cae36acf628eb60"
           }
         },
@@ -2488,7 +2488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 362338,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
             "MD5": "d5a060ce11b8c13268b821dfe5a936e4"
           }
         },
@@ -2498,7 +2498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14249,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/smoothchunk-1.20.1-4.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/smoothchunk-1.20.1-4.1.jar",
             "MD5": "66c9037777d4cafe6d5464f6eff5d8e2"
           }
         },
@@ -2508,7 +2508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 438540,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sodiumextras-forge-1.0.7-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sodiumextras-forge-1.0.7-1.20.1.jar",
             "MD5": "823adea3bcfd64dbdbaec46950cf4108"
           }
         },
@@ -2518,7 +2518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 443978,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
             "MD5": "75807590ae2648ecdeb855705868ce59"
           }
         },
@@ -2528,7 +2528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 899887,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.13.1230.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.13.1230.jar",
             "MD5": "5013830ee5e63129e13dc9369e52e2df"
           }
         },
@@ -2538,7 +2538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1203740,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.50.964.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.50.964.jar",
             "MD5": "0d85a8a0b0cc2eb881a648875e14754d"
           }
         },
@@ -2548,7 +2548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1575018,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.3.37.1134.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.3.37.1134.jar",
             "MD5": "b7837e885e45a637b668bd0e5e64d1f7"
           }
         },
@@ -2558,7 +2558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3114590,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/spark-1.10.53-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/spark-1.10.53-forge.jar",
             "MD5": "95dcd3b5400cc5eb5d0478a744e6ef98"
           }
         },
@@ -2568,7 +2568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2800831,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/SpartanWeaponry-1.20.1-forge-3.1.3-all.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/SpartanWeaponry-1.20.1-forge-3.1.3-all.jar",
             "MD5": "9334cda01582b3052e52382597d327a6"
           }
         },
@@ -2578,7 +2578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 62417,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/structureessentials-1.20.1-4.7.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/structureessentials-1.20.1-4.7.jar",
             "MD5": "2f782dbd24c60591b0d934b1249543d6"
           }
         },
@@ -2588,7 +2588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 206584,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
             "MD5": "cbece61946d4e059e90806c19dd66082"
           }
         },
@@ -2598,7 +2598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 515362,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
             "MD5": "6559d43627646f16fbe02de085e98d5c"
           }
         },
@@ -2608,7 +2608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 349125,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/tectonic-forge-1.20.1-2.4.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/tectonic-forge-1.20.1-2.4.1.jar",
             "MD5": "e4646116efca671837889dd58cad9844"
           }
         },
@@ -2618,7 +2618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 107532,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
             "MD5": "9d8e305b95ae5a8f7b446d6346324267"
           }
         },
@@ -2628,7 +2628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 119348,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
             "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
           }
         },
@@ -2638,7 +2638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 117791,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.2.jar",
             "MD5": "e1df6b412a4c22894967ba42beb347be"
           }
         },
@@ -2648,7 +2648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 21147900,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/traveloptics-4.4.0-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/traveloptics-4.4.0-1.20.1.jar",
             "MD5": "485d4ba2e4debd26f9f55f3425a4bc96"
           }
         },
@@ -2658,7 +2658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2766476,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Twigs-1.20.1-3.1.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Twigs-1.20.1-3.1.0.jar",
             "MD5": "726e5fbe4661a26c6dcfb24e54607bad"
           }
         },
@@ -2668,7 +2668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6467,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/unbreakables-1.20.1-1.0.0.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/unbreakables-1.20.1-1.0.0.jar",
             "MD5": "cbd8aad98aa4ea054c57b7db6af24eb3"
           }
         },
@@ -2678,7 +2678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2063060,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/UndeadUnleashed-1.2.1-forge-1.20.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/UndeadUnleashed-1.2.1-forge-1.20.1.jar",
             "MD5": "436a18bd2fdab435d2fe6e1afd5527d5"
           }
         },
@@ -2688,7 +2688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1626977,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/UniLib-1.0.6+1.20.1-forge.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/UniLib-1.0.6+1.20.1-forge.jar",
             "MD5": "829173f9fd03d28cb8f486de74add028"
           }
         },
@@ -2698,7 +2698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2894716,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/untamedwilds-1.20.1-4.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/untamedwilds-1.20.1-4.0.4.jar",
             "MD5": "50a2823317a1a4785d5b7d7cfc61657a"
           }
         },
@@ -2708,7 +2708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 203313,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/valhelsia_core-forge-1.20.1-1.1.2.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/valhelsia_core-forge-1.20.1-1.1.2.jar",
             "MD5": "9702cc714dbc069166b4982c0771a0c4"
           }
         },
@@ -2718,7 +2718,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69482,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Vanishmod-1.20.1-1.1.18.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Vanishmod-1.20.1-1.1.18.jar",
             "MD5": "86470d61af07469d2d0cdb5607e230a1"
           }
         },
@@ -2728,7 +2728,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7750347,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.30.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.30.jar",
             "MD5": "76f372cea2c68a63acdb05ec3fbef008"
           }
         },
@@ -2738,7 +2738,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 242444,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.14.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.14.jar",
             "MD5": "e8aa0f353e121e3e93b98b2d575ca0b4"
           }
         },
@@ -2748,7 +2748,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 37853835,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/watermedia-2.1.24.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/watermedia-2.1.24.jar",
             "MD5": "c9c2adb74cafc082248313876276f96f"
           }
         },
@@ -2758,7 +2758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 487684,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.11.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.11.jar",
             "MD5": "6167f2d7c2c3ff42929bd39b50cabd83"
           }
         },
@@ -2768,7 +2768,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5825402,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         },
@@ -2778,7 +2778,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 400817,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/xercapaint-1.20.1-1.0.1.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/xercapaint-1.20.1-1.0.1.jar",
             "MD5": "11a97dc9e22c79724b82baf209ba74cd"
           }
         },
@@ -2788,7 +2788,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 370524,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
             "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
           }
         },
@@ -2798,7 +2798,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 918012,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
             "MD5": "183e2c817e9094ce215c9e70c114825f"
           }
         },
@@ -2808,7 +2808,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 792381,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
             "MD5": "2de2f1be8f528ad139003bb5c73d49f3"
           }
         },
@@ -2818,7 +2818,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 806652,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
             "MD5": "abf4f9ef692311aef1eccb98bcee8956"
           }
         },
@@ -2828,7 +2828,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 492998,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
             "MD5": "fe8d205c98cb02840d46646fb7cf5ab8"
           }
         },
@@ -2838,7 +2838,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1033262,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
             "MD5": "467336218d681221ef8d875b226eb1bc"
           }
         },
@@ -2848,7 +2848,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 179190,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
             "MD5": "cb6d73e271fdfb2e8698b7c6bd9df0d9"
           }
         },
@@ -2858,18 +2858,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1006574,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Zeta-1.0-30.jar",
+            "url": "https://auroravitaesmp.com.br/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/Zeta-1.0-30.jar",
             "MD5": "9fa915bd7e2c64217223b6a98ab5dc47"
-          }
-        },
-        {
-          "id": "com.medievalmusic:medievalmusic:1.20.1-2.1@jar",
-          "name": "Medievalmusic mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 304414053,
-            "url": "https://auroravitae.netlify.app/nebula/servers/AuroraVitaeSMP-1.20.1/forgemods/required/zmedievalmusic-1.20.1-2.1.jar",
-            "MD5": "a2801ddb3bb4d4c6e201e88c9ef8082f"
           }
         }
       ]

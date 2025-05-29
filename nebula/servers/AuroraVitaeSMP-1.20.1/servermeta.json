@@ -1,11 +1,11 @@
 {
-  "$schema": "https://aurora-vitae-autoupdater.netlify.app/nebula/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/Alisson/Documents/AuroraVitaeSMP/nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "AuroraVitaeSMP (Minecraft 1.20.1)",
     "description": "AuroraVitaeSMP Running Minecraft 1.20.1 (Forge v47.4.0)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "eua4.xmxcloud.net:25624",
+    "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

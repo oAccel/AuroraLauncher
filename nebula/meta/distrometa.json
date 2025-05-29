@@ -1,5 +1,5 @@
 {
-  "$schema": "https://aurora-vitae-autoupdater.netlify.app/nebula/schemas/DistroMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/Alisson/Documents/AuroraVitaeSMP/nebula/schemas/DistroMetaSchema.schema.json",
   "meta": {
     "rss": "<LINK TO RSS FEED>",
     "discord": {
